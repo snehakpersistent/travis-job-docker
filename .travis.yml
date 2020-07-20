@@ -8,3 +8,4 @@ script:
   - echo $TRAVIS_CPU_ARCH
   - docker pull ubuntu:18.04
   - sudo whoami
+  - whoami
