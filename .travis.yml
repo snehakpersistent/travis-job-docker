@@ -9,4 +9,3 @@ script:
   - docker pull ubuntu:18.04
   - sudo whoami
   - whoami
-  - echo "Script execution completed"
